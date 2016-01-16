@@ -1,4 +1,4 @@
-M+1 font patched for Powerline
+M+ font patched for Powerline
 ---
 
 - Font creator(s): M+ Fonts Project
